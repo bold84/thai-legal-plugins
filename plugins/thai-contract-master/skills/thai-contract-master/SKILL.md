@@ -155,6 +155,6 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 
 ## หมายเหตุ
 
-สกิลนี้เป็นปลั๊กอินตัวที่ 1 ของกลุ่มงานสัญญาและธุรกรรมข้ามพรมแดน (กลุ่ม 3) ทำงานร่วมกับ `thai-tax-international`, `thai-boi-foreign-business`, `thai-international-disputes`, `thai-export-control`, `thai-trademark`, `thai-patent`, `thai-copyright-software`, `thai-pdpa`, `thai-tech-platform-law`, `thai-ai-governance`, `thai-ecommerce-consumer`, `thai-corporate-secretarial`, `thai-compliance-audit`, `thai-litigation-deadlines`, `thai-litigation-pleadings` และ `thai-legal-library`
+สกิลนี้เป็นปลั๊กอินตัวที่ 1 ของกลุ่มงานสัญญาและธุรกรรมข้ามพรมแดน (กลุ่ม 3) ทำงานร่วมกับ `thai-tax-international`, `thai-tax-revenue-code`, `thai-boi-foreign-business`, `thai-international-disputes`, `thai-export-control`, `thai-trademark`, `thai-patent`, `thai-copyright-software`, `thai-pdpa`, `thai-tech-platform-law`, `thai-ai-governance`, `thai-ecommerce-consumer`, `thai-corporate-secretarial`, `thai-compliance-audit`, `thai-litigation-deadlines`, `thai-litigation-pleadings` และ `thai-legal-library`
 
 ข้อมูลกฎหมาย ณ 9 ตุลาคม 2569 (2026) — ตรวจฉบับปัจจุบันก่อนใช้

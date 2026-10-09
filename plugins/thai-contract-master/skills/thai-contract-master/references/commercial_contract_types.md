@@ -26,7 +26,7 @@
 
 **ข้อหลัก:** scope/usage/affiliate · SLAนิยามavailability+เครดิต+ข้อยกเว้น · ระงับเมื่อไม่ชำระ (ม.369/notice/cure) · ราคา/ต่ออายุ · IP/indemnity · cap · data exit/export/deletion · AI-output/ฝึกข้อมูล → `thai-ai-governance`, `thai-copyright-software`
 
-**กับดัก:** B2B สำเร็จรูปยังตรวจข้อสัญญาฯ ม.3–4/8/10 และ ม.373; credit ไม่ลบทุกสิทธิ ม.13/1 ของ พ.ร.บ.ธุรกรรมฯ คือข้อเสนอต่อสาธารณะ ไม่ใช่ทุกorder; DPA ม.40 ว.3 → `thai-pdpa` อากรตามเนื้อหาไม่ใช่ชื่อ SaaS → `thai-tax-international`
+**กับดัก:** B2B สำเร็จรูปยังตรวจข้อสัญญาฯ ม.3–4/8/10 และ ม.373; credit ไม่ลบทุกสิทธิ ม.13/1 ของ พ.ร.บ.ธุรกรรมฯ คือข้อเสนอต่อสาธารณะ ไม่ใช่ทุกorder; DPA ม.40 ว.3 → `thai-pdpa` อากรตามเนื้อหาไม่ใช่ชื่อ SaaS → `thai-tax-revenue-code`
 
 **Checklist:** [ ] scope/usage [ ] uptimeสูตร/เหตุยกเว้น [ ] creditสัมพันธ์สิทธิอื่น [ ] ระงับเท่าที่จำเป็น+cure [ ] DPAversionตรงMSA [ ] export/ค่าexit [ ] ราคาไม่ย้อนหลัง [ ] AIไม่ใช้ข้อมูลนอกข้อตกลง B2C/แพลตฟอร์ม → `thai-ecommerce-consumer` / `thai-tech-platform-law`
 
@@ -61,7 +61,7 @@
 
 **Competition sanity check:** พ.ร.บ.การแข่งขันฯ ม.54 คู่แข่ง/คาร์เทล แยกจาก ม.55 แนวดิ่ง/sole distributor(3); ต้องมีผลลด/จำกัดแข่งขัน ม.56ข้อยกเว้นมีเงื่อนไข ไม่ใช่ทุกlicenceพ้นผิด ม.57ความเสียหาย+ไม่เป็นธรรมตามแนวทาง2565 ไม่ใช้ส่วนแบ่ง10%เป็นsafeharbourทุกมาตรา ตรวจประกาศplatform/creditterm2569ใน `key_sections.md`
 
-**Checklist:** [ ] ผู้ออกinvoice/รับเงิน/ผูกตัวการ [ ] ลูกค้า/พื้นที่ไม่คาร์เทล [ ] exclusivityมีเหตุ/ข้อมูลตลาด [ ] exit/stock [ ] โอนsubscriptionลูกค้า [ ] กฎหมายปลายทาง ภาษี/ต่างด้าว/ส่งออก → `thai-tax-international`, `thai-boi-foreign-business`, `thai-export-control`
+**Checklist:** [ ] ผู้ออกinvoice/รับเงิน/ผูกตัวการ [ ] ลูกค้า/พื้นที่ไม่คาร์เทล [ ] exclusivityมีเหตุ/ข้อมูลตลาด [ ] exit/stock [ ] โอนsubscriptionลูกค้า [ ] กฎหมายปลายทาง ภาษีข้ามพรมแดน (ในประเทศ `thai-tax-revenue-code`)/ต่างด้าว/ส่งออก → `thai-tax-international`, `thai-boi-foreign-business`, `thai-export-control`
 
 ## 6. (e) NDA
 

@@ -25,7 +25,7 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 
 หากเป็นการกำกับ AI/ร่างกฎหมาย AI ใช้ `thai-ai-governance`; หากเป็นสิทธิผู้บริโภค ราคา คืนเงิน หรือการขายออนไลน์ ใช้ `thai-ecommerce-consumer`
 
-หากเป็นสัญญาทั่วไป ใช้ `thai-contract-master`; ข้อพิพาทข้ามพรมแดน ใช้ `thai-international-disputes`; ธุรกิจต่างด้าว ใช้ `thai-boi-foreign-business`; ภาษี ใช้ `thai-tax-international` การแจ้ง DPS ไม่แทนการวิเคราะห์เรื่องเหล่านี้
+หากเป็นสัญญาทั่วไป ใช้ `thai-contract-master`; ข้อพิพาทข้ามพรมแดน ใช้ `thai-international-disputes`; ธุรกิจต่างด้าว ใช้ `thai-boi-foreign-business`; ภาษีในประเทศ ใช้ `thai-tax-revenue-code` ข้ามพรมแดน ใช้ `thai-tax-international` การแจ้ง DPS ไม่แทนการวิเคราะห์เรื่องเหล่านี้
 
 ## ขอบเขตงานที่ครอบคลุม
 

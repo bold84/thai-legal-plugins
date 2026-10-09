@@ -22,7 +22,7 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 
 หากเป็นคำฟ้อง/คำให้การ ใช้ `thai-litigation-pleadings` · หากเป็นคำร้องศาล ใช้ `thai-litigation-motions` · หากเป็นคำนวณวันครบกำหนด ใช้ `thai-litigation-deadlines` · หากเป็นจัดแฟ้ม/พยาน ใช้ `thai-litigation-caseprep`
 
-หากเป็นสัญญาหลัก ใช้ `thai-contract-master` · หากเป็นภาษี ใช้ `thai-tax-international` · หากเป็นสิทธิซอฟต์แวร์ ใช้ `thai-copyright-software` · หากเป็นข้อมูลพยาน ใช้ `thai-pdpa` · หากเป็นส่งออก/คว่ำบาตร ใช้ `thai-export-control` · หากเป็นสิทธิทำงานบุคลากรต่างชาติ ใช้ `thai-boi-foreign-business`
+หากเป็นสัญญาหลัก ใช้ `thai-contract-master` · หากเป็นภาษีข้ามพรมแดน ใช้ `thai-tax-international` ในประเทศ ใช้ `thai-tax-revenue-code` · หากเป็นสิทธิซอฟต์แวร์ ใช้ `thai-copyright-software` · หากเป็นข้อมูลพยาน ใช้ `thai-pdpa` · หากเป็นส่งออก/คว่ำบาตร ใช้ `thai-export-control` · หากเป็นสิทธิทำงานบุคลากรต่างชาติ ใช้ `thai-boi-foreign-business`
 
 ## ขอบเขตงานที่ครอบคลุม
 

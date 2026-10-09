@@ -19,7 +19,7 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 - ถูกคู่สัญญาต่างประเทศขอข้อสัญญา/แบบสอบถาม export control, sanctions, end-use, "no re-export"
 - ต้องวางโปรแกรม ICP หรือนโยบายกำกับการส่งออกของบริษัท
 
-หากเป็นภาษี ใช้ `thai-tax-international` · สัญญาทั่วไป ใช้ `thai-contract-master` · ข้อพิพาท ใช้ `thai-international-disputes`
+หากเป็นภาษีข้ามพรมแดน ใช้ `thai-tax-international` · ภาษีในประเทศ ใช้ `thai-tax-revenue-code` · สัญญาทั่วไป ใช้ `thai-contract-master` · ข้อพิพาท ใช้ `thai-international-disputes`
 หากเป็นลิขสิทธิ์/open source ใช้ `thai-copyright-software` · โอนข้อมูลส่วนบุคคล ใช้ `thai-pdpa` · แพลตฟอร์ม/ไซเบอร์ ใช้ `thai-tech-platform-law`
 หากเป็น BOI/ธุรกิจต่างด้าว ใช้ `thai-boi-foreign-business` · compliance หลายด้าน ใช้ `thai-compliance-audit`
 
