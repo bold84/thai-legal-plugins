@@ -19,7 +19,7 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 - ออกแบบ log retention, electronic signature, evidence trail หรือ Digital ID
 - ตรวจ CII vendor, cloud/website standards, security schedule และ anti-fraud social media
 
-หากเป็นฐานข้อมูลส่วนบุคคล DPA สิทธิ/เหตุละเมิด หรือการโอนข้อมูล ใช้ `thai-pdpa`
+หากเป็นฐานข้อมูลส่วนบุคคล DPA สิทธิ/เหตุละเมิด หรือการโอนข้อมูล — เครื่องมือโอน (EU SCC / ASEAN MCC รับรองตั้งแต่ 24 มี.ค. 2567) อยู่ใน `thai-pdpa` — ใช้ `thai-pdpa`
 
 หากเป็นสาระ safe harbour ลิขสิทธิ์ ม.43/1–43/8 หรือสิทธิซอฟต์แวร์ ใช้ `thai-copyright-software`
 
