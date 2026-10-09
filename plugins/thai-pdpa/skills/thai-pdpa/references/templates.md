@@ -243,7 +243,7 @@ Thailand profile: ไทยไม่อยู่ในบัญชี EU adequac
 law/section | actor/trigger | court before/after | notice/secrecy | redress/limits
              | confidence A/B/C | practice evidence | impact on this flow
 กฎหมายที่เกี่ยว: CCA 18–19/26; NIA 6/8; Cybersecurity 60–69;
-DSI 24–26; AMLA 38/46; Emergency 5/11/16–17; PDPA 4/พ.ร.ฎ.2566
+DSI 24–26; AMLA 38/46; Emergency 5/11/16–17; Tech-Crime Decree ม.5/12; ป.วิ.อ. 132–133; ป.รษ. 17/19; PDPA 4/พ.ร.ฎ.2566
 ข้อมูลผู้รับ: คำขอ/ผล/ช่วงเวลาที่ตรวจ [....] ไม่ใช้ไม่มีคำขอ = ไม่มีความเสี่ยง
 measures: technical [....] contractual [....] organisational [....]
 plaintext/key/support access [....]; effectiveness/residual risk [....]
