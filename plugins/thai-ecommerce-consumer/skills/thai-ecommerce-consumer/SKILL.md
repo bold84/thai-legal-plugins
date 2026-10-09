@@ -19,7 +19,7 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 - ตรวจราคา โปรโมชั่น คำอ้าง ผู้รีวิว affiliate และภาพ AI
 - จัดการยกเลิก คืนเงิน COD สคบ. และแฟ้มไกล่เกลี่ย
 
-หากเป็นสัญญาธุรกิจทั่วไป ใช้ `thai-contract-master`; ภาษี/ใบกำกับ/ใบลดหนี้ ใช้ `thai-tax-international`
+หากเป็นสัญญาธุรกิจทั่วไป ใช้ `thai-contract-master`; ภาษี/ใบกำกับ/ใบลดหนี้ในประเทศ ใช้ `thai-tax-revenue-code` ข้ามพรมแดน ใช้ `thai-tax-international`
 หากเป็นข้อมูลผู้ซื้อ ใช้ `thai-pdpa`; ตัวกลาง/ธุรกรรมอิเล็กทรอนิกส์/ไซเบอร์ ใช้ `thai-tech-platform-law`
 หากเป็นธรรมาภิบาล AI ใช้ `thai-ai-governance`; สิทธิซอฟต์แวร์ ใช้ `thai-copyright-software`
 หากเป็นโครงสร้างต่างด้าว ใช้ `thai-boi-foreign-business`; ข้อพิพาทข้ามแดน ใช้ `thai-international-disputes`

@@ -59,7 +59,7 @@ EIA Playbook/red teaming ใน AIGW 2026 เป็นเครื่องม�
 
 **สกมช. [G9]:** ต้นฉบับปัจจุบันอ่านแล้ว มี secure lifecycle ตั้งแต่แนวคิดถึงเลิก/ทำลาย รวม governance/ความเสี่ยงองค์กร การตรวจและนโยบายใช้ AI; เป็นแนวทางเชิงเทคนิคไม่แทน **ประกาศคลาวด์** ที่มีผลแล้ว [L11] ไม่ใช้วันที่ในชื่อไฟล์เป็นวันมีผลทางกฎหมาย ส่งไซเบอร์/CII ให้ `thai-tech-platform-law`
 
-**PDPC [G12]:** ฉบับเผยแพร่ 7 ต.ค.2569 ไม่ใช่ draft-only; หน้า 4 ระบุคำแนะนำไม่มีสภาพบังคับ ไม่ผูกการพิจารณาความผิดและไม่ใช่ตีความชี้ขาด รองรับ prompt/embeddings/training, risk/สิทธิและ vendor controls **ไม่สร้าง standalone DPIA duty หรือสิทธิ automated decision ใหม่** สาระ PDPA ส่ง `thai-pdpa`
+**PDPC [G12]:** ฉบับเผยแพร่ 7 ต.ค.2569 ไม่ใช่ draft-only; หน้า 4 ระบุคำแนะนำไม่มีสภาพบังคับ ไม่ผูกการพิจารณาความผิดและไม่ใช่ตีความชี้ขาด รองรับ prompt/embeddings/training, risk/สิทธิและ vendor controls **ไม่สร้าง standalone DPIA duty หรือสิทธิ automated decision ใหม่**; แนะ on-premises สำหรับข้อมูลอ่อนไหว/เสี่ยงสูง และ DPA แบบ no-training/zero-retention + ลบข้อมูลตกค้างใน weights/vector DB เมื่อเลิกสัญญา (FAQ 4.4, §7.1) สาระ PDPA ส่ง `thai-pdpa`
 
 **กสทช. [G13]:** HLC สรุปแนวทาง non-binding/risk-based สำหรับผู้รับใบอนุญาตโทรคมเรื่อง governance/ความเสี่ยง/ผู้ใช้บริการ ชื่อ/วันตรง metadata ทางการ แต่ PDF ยังเปิดไม่ได้ ต้องตรวจต้นฉบับก่อนให้ความเห็นรายข้อ ไม่ใช้แทนกฎใบอนุญาต/ข้อมูล/ไซเบอร์
 
