@@ -5,7 +5,7 @@
 ---
 
 ## สารบัญ
-1. ศาล 2. อนุญาโตฯ 3. ภาษา 4. ทั้งฉบับ 5. บอกกล่าว/e-sign 6. cap 7. เบี้ยปรับ 8. เลิก 9. สุดวิสัย 10. โอน 11. IP 12. TM 13. อากร 14. ตรวจรับ 15. เตือน/สงวนสิทธิ
+1. ศาล 2. อนุญาโตฯ 3. ภาษา 4. ทั้งฉบับ 5. บอกกล่าว/e-sign 6. cap 7. เบี้ยปรับ 8. เลิก 9. สุดวิสัย 10. โอน 11. IP 12. TM 13. อากร 14. ตรวจรับ 15. เตือน/สงวนสิทธิ 16. เขตแดน/เอกสิทธิ์ 17. ค่าตอบแทน/รายงาน/ตรวจบัญชี 18. ควบคุมเครื่องหมาย 19. sell-off คงเหลือ
 
 ## 1. กฎหมายและศาล
 ฐาน: ขัดกันฯ ม.13/ป.วิ.พ. ม.2,4 เลือกข้อ1หรือ2 ไม่สร้างเขตอำนาจเอง
@@ -114,6 +114,34 @@ Testing starts on Annex-compliant work/source/docs/test-environment delivery. No
 Re: Remedy of breach of [Agreement/version/clause]
 Delivery of [work] was due [date]; at [date], [items] remain missing. Complete/remedy under [criteria] within [reasonable date/time] after receipt. Otherwise, termination by separate notice and available damages may be pursued without double recovery.
 [At actual acceptance: Accepting late work [items/time], the recipient expressly reserves clause [....] penalty rights to the deliverer at acceptance, without acknowledging completeness or absence of defects beyond work examined.]
+```
+
+## 16. เขตแดนและเอกสิทธิ์
+ฐาน: แข่งขันฯ ม.54–57/แนวทาง2565; ป.พ.พ. ม.827 ว.2; หัวข้อข้อหลักของ §5 ใน `commercial_contract_types.md`
+```text
+เขตแดน[....] และสิทธิ[เอกสิทธิ์ขายแต่เพียงผู้เดียว/แต่ผู้เดียว(sole)/ไม่เฉพาะ]ในสินค้า[....] ตลอดระยะ[....] เจ้าของไม่แต่งตั้งผู้จำหน่าย/ใช้ช่องทางอื่นในเขตแดนเว้นระบุในภาคผนวก[....] เอกสิทธิ์ไม่ตัดบทแข่งขันทางการค้าและไม่ให้สิทธิรับค่าความนิยม/ชดเชยเมื่อเลิกโดยอัตโนมัติ
+Territory: [....]; rights: [exclusive/sole/non-exclusive] for [....] for the term [....]. The principal appoints no other distributor or channel in the territory except as Annex [....] permits. Exclusivity does not displace competition law and creates no automatic goodwill or termination compensation.
+```
+
+## 17. ค่าตอบแทน รายงานยอดขาย และสิทธิตรวจสอบบัญชี
+ฐาน: ป.พ.พ. ม.193/33–193/34 (อายุความค่าเป็นระยะ/ค่าการงาน); สิทธิบัตรฯ ม.39ค่าสิทธิหลังหมดอายุ; วิธีหัก/อากรตาม `thai-tax-revenue-code`
+```text
+ค่าตอบแทนเป็น[รอยัลตี้ร้อยละ[....]ของยอดขายสุทธิ/อัตราคงที่ต่อหน่วย] ชำระภายใน[....]วันนับสิ้น[เดือน/ไตรมาส] พร้อมรายงานยอดขายตามแบบภาคผนวก[....] ผู้จ่ายหักภาษี ณ ที่จ่ายตามกฎหมายพร้อมออกหนังสือรับรอง เก็บเอกสาร[....]ปี และยอมให้ตรวจบัญชีที่เกี่ยวข้องในเวลาทำการเมื่อบอกกล่าวล่วงหน้า[....]วัน ปรับปรุงการชำระตามผลตรวจโดยไม่ตัดสิทธิอื่น
+Fees: [royalty of [....]% of net sales/fixed per-unit rate], payable within [....] days after each [month/quarter] with the Annex [....] sales report. The payer withholds statutory tax and issues certificates, keeps records for [....] years, and permits audit of relevant accounts in business hours on [....] days' notice; payments are reconciled to the audit without prejudice to other rights.
+```
+
+## 18. ควบคุมเครื่องหมายและมาตรฐานแบรนด์
+ฐาน: เครื่องหมายฯ ม.68–70,76,77–79/1; `thai-trademark` ปิดทะเบียนก่อนใช้
+```text
+ใช้เครื่องหมาย/ชื่อการค้าได้เท่าที่คู่มือแบรนด์ภาคผนวก[....]กำหนด คงมาตรฐานคุณภาพ การติดป้าย โฆษณา ตัวอย่างและการส่งเสริมตามที่ต้องอนุมัติ ผลจากการใช้ได้แก่เจ้าของและคงทะเบียน/การควบคุมคุณภาพ ผู้รับแก้หรือระงับการใช้อันไม่เป็นไปตามมาตรฐาน ไม่ยกผลการรับอนุญาตเป็นสิทธิในเครื่องหมายเกินขอบเขตที่ให้
+Marks/trade names are used only as the Annex [....] brand manual allows, maintaining quality standards, labelling, advertising, samples and promotions subject to approval. Goodwill from use accrues to the owner; registrations and quality control are maintained. Non-compliant use is corrected or suspended, and the licence confers no mark rights beyond the grant.
+```
+
+## 19. ขายสะสางสินค้าคงเหลือเมื่อเลิก
+ฐาน: ป.พ.พ. ม.386–391 (เลิก/คืนฐานะเดิม); เครื่องหมายฯ ม.76ทะเบียนถูกเพิกถอนlicenceสิ้น; `clause_risk_library.md` แถว17
+```text
+เมื่อเลิก สิทธิใช้เครื่องหมายและความเป็นผู้จำหน่ายสิ้น แต่ผู้รับจำหน่ายขายสินค้าคงเหลือที่ซื้อโดยสุจริตก่อนวันเลิกได้ไม่เกิน[....]วันตามราคา/เงื่อนไขเดิม คงค่าตอบแทน คุณภาพและการควบคุมเครื่องหมาย แล้วรายงานคงเหลือและคืน/ทำลายวัสดุแบรนด์ หรือคืน/ขายคืนสินค้าตามที่ตกลง
+On termination the mark licence and distributorship end, but the distributor may sell off stock bought in good faith before termination for up to [....] days on the agreed price and terms, continuing fees, quality and mark control, then reports remaining stock and returns/destroys brand materials, or returns/sells back goods as agreed.
 ```
 
 ---

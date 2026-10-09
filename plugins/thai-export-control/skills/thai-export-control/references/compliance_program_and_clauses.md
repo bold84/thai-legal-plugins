@@ -1,6 +1,6 @@
 # compliance_program_and_clauses.md — โปรแกรมกำกับการส่งออก (ICP) และข้อสัญญาสองภาษา
 
-อ่านไฟล์นี้เมื่อวาง ICP/ร่างข้อสัญญา — **ข้อมูล ณ 9 ตุลาคม 2569 (2026)** **(สรุปสาระ)** [S4/S6/S9/S14 ใน `key_sections.md`]; แม่แบบให้ทนายปรับ ไม่ใช่ใบอนุญาต/แบบราชการ
+อ่านไฟล์นี้เมื่อวาง ICP/ร่างข้อสัญญา — **ข้อมูล ณ 9 ตุลาคม 2569 (2026)** **(สรุปสาระ)** [S4/S6/S9/S13/S14 ใน `key_sections.md`]; แม่แบบให้ทนายปรับ ไม่ใช่ใบอนุญาต/แบบราชการ
 
 ---
 
@@ -51,8 +51,8 @@
 คำนิยาม / Definitions
 TH: “กฎหมายควบคุมการค้า” คือกฎหมายไทยด้าน WMD ศุลกากรและสนับสนุนเงินแก่การก่อการร้าย/WMD รวม UN ที่ไทยใช้และกฎหมายต่างประเทศที่ใช้แก่ฝ่ายนั้นจริง กฎตามสัญญาเพิ่มระบุในภาคผนวก [ ]
 EN: “Trade Control Laws” are applicable Thai WMD/customs/terrorism-WMD-financing laws, UN measures implemented in Thailand and foreign laws applicable to the Party. Extra contractual rules are in Schedule [ ].
-TH: “บุคคลต้องห้าม” คือผู้ถูกกำหนดโดย ปปง. รวมผู้ทำแทน/กิจการใต้ครอบครองหรือควบคุมตามกฎหมายที่ใช้ และบุคคลในภาคผนวก
-EN: “Restricted Party” means an AMLO-designated person, its representative/owned or controlled entity within applicable law, and Schedule-listed persons.
+TH: “บุคคลต้องห้าม” คือผู้ถูกกำหนดโดย ปปง. และบุคคลซึ่งถูกกำหนดตามบัญชีที่ใช้แก่ฝ่ายนั้นจริง ได้แก่ บัญชีรวมคณะมนตรีความมั่นคงแห่งสหประชาชาติ บัญชีสหรัฐ (OFAC SDN/บัญชีภาคส่วน) บัญชีรวมสหภาพยุโรป และบัญชีสหราชอาณาจักร (UK Sanctions/OFSI) รวมผู้ทำแทน/กิจการใต้ครอบครองหรือควบคุมตามกฎหมายที่ใช้ และบุคคลในภาคผนวก
+EN: “Restricted Party” means an AMLO-designated person and a person designated under lists applicable to that Party, namely the UN Security Council consolidated list, US lists (OFAC SDN/sectoral), the EU consolidated list and UK lists (UK Sanctions/OFSI), its representative/owned or controlled entity within applicable law, and Schedule-listed persons.
 
 1. การปฏิบัติตามกฎหมายและใบอนุญาต / Compliance and authorisation
 TH: แต่ละฝ่ายปฏิบัติกฎหมายที่ใช้แก่ตน ผู้ขายให้ผล NCL/ฉบับ/วันที่/ข้อจำกัดเมื่อร้องขอ การส่งเป็นเงื่อนไขจนใบอนุญาตที่กฎหมายต้องการมีผล ผู้ซื้อให้ข้อมูล/end-use จำเป็นทันที ขยายเฉพาะเวลาจำเป็นพร้อมแจ้งเหตุ ใบถูกปฏิเสธ/เพิกถอน/ไม่ทัน [ ] นับคำขอครบ แต่ละฝ่ายเลิกคำสั่งส่วนที่กระทบเป็นหนังสือได้ คงรับผิดเดิมและข้อ 4
@@ -67,12 +67,16 @@ TH: แต่ละฝ่ายรับรองว่าตน ผู้ถื
 EN: Each Party represents that it, its controlling shareholders and directors are not Restricted Parties, promptly notifies changes and supplies reasonably requested ownership/control information for screening.
 
 4. ระงับ เลิก และทรัพย์สิน / Suspension, termination and assets
-TH: เมื่อมีข้อห้าม/คำสั่งหรือสงสัยตามสมควรว่าผิดข้อ 2–3 ฝ่ายที่กระทบอาจพักเฉพาะจำเป็น แจ้งเหตุและให้ชี้แจงใน [ ] เว้นกฎหมายห้ามหรือต้องหยุดทันที เลิกเฉพาะส่วนเมื่อถูกห้าม ใบไม่ได้ตามข้อ 1 หรือผิดสาระสำคัญแก้ไม่ได้ การพัก/เลิกที่ชอบไม่ก่อรับผิดเอง ไม่ปลดผิดเดิม ปรับยอดตามส่งจริง ทรัพย์สินระงับโอน/คืนได้เฉพาะอนุญาตตามกฎหมาย
-EN: An affected Party may suspend only necessary performance for a prohibition/order or reasonable suspicion under Clauses 2–3. Give reasons and [ ] to respond unless legally barred or an immediate stop is needed. Terminate only the affected part for prohibition, Clause 1 licence failure or irremediable material breach. Lawful suspension/termination alone gives no liability and preserves prior liability. Adjust sums for actual delivery; frozen assets need lawful transfer/refund permission.
+TH: เมื่อมีข้อห้าม/คำสั่งหรือสงสัยตามสมควรว่าผิดข้อ 2–3 ฝ่ายที่กระทบอาจพักเฉพาะจำเป็น แจ้งเหตุและให้ชี้แจงใน [ ] เว้นกฎหมายห้ามหรือต้องหยุดทันที เลิกเฉพาะส่วนเมื่อถูกห้าม ใบไม่ได้ตามข้อ 1 หรือผิดสาระสำคัญแก้ไม่ได้ การพัก/เลิกที่ชอบไม่ก่อรับผิดเอง ไม่ปลดผิดเดิม ปรับยอดตามส่งจริง ทรัพย์สินระงับโอน/คืนได้เฉพาะอนุญาตตามกฎหมาย; เมื่อระงับบริการ SaaS ให้คืนหรือเครดิตค่าบริการที่ชำระล่วงหน้าส่วนที่ยังไม่ได้รับบริการเป็นวงเงินรายเดือนตามงวดที่เหลือ เว้นกฎหมายห้าม
+EN: An affected Party may suspend only necessary performance for a prohibition/order or reasonable suspicion under Clauses 2–3. Give reasons and [ ] to respond unless legally barred or an immediate stop is needed. Terminate only the affected part for prohibition, Clause 1 licence failure or irremediable material breach. Lawful suspension/termination alone gives no liability and preserves prior liability. Adjust sums for actual delivery; frozen assets need lawful transfer/refund permission. On suspension of SaaS service, prepaid fees for undelivered periods are refunded or credited as monthly service credit for the remaining periods, unless legally barred.
 
 5. ความร่วมมือ บันทึก และการเข้าถึง / Cooperation, records and access
 TH: ให้เอกสารจำเป็นใน [ ] เก็บตามกฎหมายหรือ [ ] หากยาวกว่า เปิดเผยข้อมูลลับต่อหน่วยงานเฉพาะกฎหมายกำหนด ข้อมูลบุคคลมีฐานชอบ ห้ามเข้าถึงไฟล์/source/เทคนิคที่กฎหมายห้าม จำกัดเฉพาะจำเป็นตามข้อ 4 ผลไทยไม่รับรองกฎหมายต่างประเทศ
 EN: Supply necessary records within [ ]; retain for the legal period or [ ], if longer. Disclose confidential material to authorities only as legally required, with a lawful personal-data basis. No prohibited file/source/technical access. Restrict only necessary access under Clause 4; Thai classification is no foreign-law assurance.
+
+6. การเข้าถึงจากปลายทาง/บุคคลต้องห้าม / Access from embargoed destinations and restricted persons
+TH: ผู้ให้บริการต้องไม่ให้บริการหรือให้เข้าถึงจากประเทศ/ดินแดนที่ถูกคว่ำบาตรตามกฎหมายควบคุมการค้า (embargoed destinations) และผู้ใช้ต้องไม่อัปโหลดหรือให้เข้าถึงเทคโนโลยี/ข้อมูลทางเทคนิคที่ถูกควบคุมเข้าระบบจากจุดต้องห้ามหรือโดยบุคคลต้องห้าม
+EN: Supplier must not provide the service or allow access from embargoed destinations under Trade Control Laws, and Customer must not upload or enable access to controlled technology/technical data to the system from a prohibited location or by a Restricted Party.
 ```
 
 ## 6. ข้อควรตรวจในการร่าง [S9/S14]

@@ -21,19 +21,19 @@
 ตรวจพร้อมหน้าจอ โฆษณา ใบยืนยันและ SOP; ธุรกิจควบคุมใช้แบบเฉพาะ [S01–S04, S22] สัญญา B2B ส่ง `thai-contract-master`
 
 ```text
-บริการ/รุ่นเงื่อนไข/วันที่ใช้:
-ผู้ขาย/ผู้ซื้อ/ผู้ใช้/ติดต่อ:
-สินค้า/บริการ/สิทธิใช้ ขอบเขตและข้อจำกัด:
-ราคา/หน่วย/รอบ/ยอดเก็บ ภาษีและค่าบังคับอื่น:
-ชำระ ส่งมอบ วันซื้อ/รับ และเอกสารยืนยัน:
-ทดลองฟรีสิ้นสุด/เริ่มคิดเงิน/จำนวน:
-ต่ออายุ: วิธีตกลง วันเก็บ วิธีหยุด ผลต่อสิทธิใช้:
-เปลี่ยนราคา/ฟังก์ชัน: เหตุ แจ้ง ทางเลือก/เยียวยา:
-เลิก/คืน/รับประกัน: แยกสิทธิกฎหมายกับสมัครใจ:
-ความรับผิด/ข้อยกเว้น และร้องเรียน/ข้อพิพาท:
-ไทยอ่านง่าย เน้นสิทธิเลิกเมื่อ ม.30 ใช้:
-หลักฐานก่อนยอมรับ รุ่น เวลา และสำเนาที่ส่ง:
-ผลผ่าน/แก้/ตรวจเพิ่ม + ฐาน/แหล่ง/เจ้าของ:
+บริการ/รุ่นเงื่อนไข/วันที่ใช้ (service / terms version / effective date):
+ผู้ขาย/ผู้ซื้อ/ผู้ใช้/ติดต่อ (seller / buyer / user / contact):
+สินค้า/บริการ/สิทธิใช้ ขอบเขตและข้อจำกัด (goods/service/licence scope and limits):
+ราคา/หน่วย/รอบ/ยอดเก็บ ภาษีและค่าบังคับอื่น (price/unit/period/amount charged, tax and mandatory fees):
+ชำระ ส่งมอบ วันซื้อ/รับ และเอกสารยืนยัน (payment, delivery, purchase/receipt date and confirmation):
+ทดลองฟรีสิ้นสุด/เริ่มคิดเงิน/จำนวน (free-trial end / billing start / amount):
+ต่ออายุ: วิธีตกลง วันเก็บ วิธีหยุด ผลต่อสิทธิใช้ (renewal: agreement, billing date, stop method, effect on access):
+เปลี่ยนราคา/ฟังก์ชัน: เหตุ แจ้ง ทางเลือก/เยียวยา (price/feature change: reason, notice, option/remedy):
+เลิก/คืน/รับประกัน: แยกสิทธิกฎหมายกับสมัครใจ (cancellation/refund/warranty: statutory vs voluntary rights):
+ความรับผิด/ข้อยกเว้น และร้องเรียน/ข้อพิพาท (liability/exclusions and complaints/disputes):
+ไทยอ่านง่าย เน้นสิทธิเลิกเมื่อ ม.30 ใช้ (plain Thai; highlight the cancellation right where ม.30 applies):
+หลักฐานก่อนยอมรับ รุ่น เวลา และสำเนาที่ส่ง (pre-acceptance evidence, version, time and delivered copy):
+ผลผ่าน/แก้/ตรวจเพิ่ม + ฐาน/แหล่ง/เจ้าของ (pass/fix/escalate + basis/source/owner):
 ```
 
 ตรวจ ม.33 ก่อนเขียน 7 วัน; ไม่อ้างว่า ม.82/4 บังคับรวม VAT ทุกกรณี [S19–S20] ความหมายไทย/อังกฤษต้องตรง ไม่ใช้ภาษาใดลดสิทธิ
@@ -127,16 +127,16 @@ notice receipt and any relevant return arrangements.
 **ขต.2/รายการแนบประกาศ 2567 และระบบปัจจุบัน [S07] เป็นหลัก** ไม่ใช้ ขต.1 ขายตรง; เลือกตามรูปผู้ยื่น รายการนี้ไม่บังคับเหมือนกันทุกคน
 
 ```text
-[ ] วิเคราะห์ ม.3/27 และกฎยกเว้น + หลักฐาน
-[ ] ขต.2 ลงนาม/อำนาจ/มอบอำนาจถ้ามี
-[ ] ตัวตน/หนังสือรับรอง/บริคณห์สนธิ/ผู้ถือหุ้นตามผู้ยื่น
-[ ] ม.38/3–38/4 ประกอบ38/2/ประวัติ ไม่ใช้ทุนขายตรง38/1
-[ ] สำนักงาน/สำนักงานใหญ่ แผนที่ ภาพ ติดต่อ
-[ ] สินค้า/บริการรับรอง ใบอนุญาตเฉพาะ/ที่มาตามที่เรียก
-[ ] เอกสารซื้อไทย ม.30–31/รับประกัน
-[ ] ขั้นตอน/หน้าจอจริง เสนอ ชำระ ส่งมอบ ยกเลิก คืน
-[ ] หลักประกันประเภท/จำนวนและแบบตามหนังสือแจ้ง
-[ ] ตรวจรายการปัจจุบัน เก็บใบรับ/หนังสือทุกฉบับ
+[ ] วิเคราะห์ ม.3/27 และกฎยกเว้น + หลักฐาน (analyse s.3/27 and exemptions + evidence)
+[ ] ขต.2 ลงนาม/อำนาจ/มอบอำนาจถ้ามี (ขต.2 form: signature / authority / power of attorney if any)
+[ ] ตัวตน/หนังสือรับรอง/บริคณห์สนธิ/ผู้ถือหุ้นตามผู้ยื่น (identity / certificate / articles / shareholders as applicable)
+[ ] ม.38/3–38/4 ประกอบ38/2/ประวัติ ไม่ใช้ทุนขายตรง38/1 (ss.38/3–38/4 with 38/2/history; not direct-sales capital 38/1)
+[ ] สำนักงาน/สำนักงานใหญ่ แผนที่ ภาพ ติดต่อ (office/head office, map, photos, contact)
+[ ] สินค้า/บริการรับรอง ใบอนุญาตเฉพาะ/ที่มาตามที่เรียก (goods/services certification; specific licences/origin as requested)
+[ ] เอกสารซื้อไทย ม.30–31/รับประกัน (Thai purchase documents ss.30–31 / warranty)
+[ ] ขั้นตอน/หน้าจอจริง เสนอ ชำระ ส่งมอบ ยกเลิก คืน (actual steps/screens: offer, payment, delivery, cancel, refund)
+[ ] หลักประกันประเภท/จำนวนและแบบตามหนังสือแจ้ง (security type/amount and form per the notification letter)
+[ ] ตรวจรายการปัจจุบัน เก็บใบรับ/หนังสือทุกฉบับ (check the current list; keep receipts/all letters)
 ```
 
 ยื่น [OCPB Direct](https://ocpbdirect.ocpb.go.th/) หรือช่องทางตามประกาศ ไม่รับรองอนุมัติทันที หลักประกันใหม่ 5,000/25,000 บาทไม่ใช่ค่าธรรมเนียม [S06] บริษัทพ้นทะเบียนพาณิชย์ให้แนบฐานยกเว้นและขอเอกสารทดแทน ไม่สร้างใบที่สิ้นผลขึ้นใหม่ [S14–S15]
@@ -146,17 +146,17 @@ notice receipt and any relevant return arrangements.
 เตรียมก่อนเผยแพร่ตาม ม.22, 28/ประกาศโฆษณา 2565 [S01, S21] การอนุมัติไม่ทำให้คำอ้างจริงเอง
 
 ```text
-Claim ID / ข้อความทุกภาษาและสื่อจริง:
-รุ่น/ผู้ชม/ตลาด/ช่วงเผยแพร่:
-คุณสมบัติ ราคา ฟรี เปรียบเทียบ สถิติ รับประกัน:
-ต้นฉบับ/ผู้ทดสอบ/วัน/วิธี/สภาวะ:
-กลุ่มเปรียบเทียบ/ตัวอย่าง/ข้อจำกัด/วันทบทวน:
-การเปิดเผยเงื่อนไขที่อ่าน/ฟังได้จริง:
-รีวิว/affiliate/ความสัมพันธ์/ผลประโยชน์:
-ภาพ AI/ปรับแต่ง/เปิดเผย/ภาพตรงของจริง:
-ผู้ตรวจ/อนุมัติ/ผ่านหรือแก้:
-หลักฐาน ณ เผยแพร่/รุ่น/เวลาหยุด:
-หนังสือพิสูจน์: วันรับ/ถือว่ารับ กำหนดตอบ เจ้าของ:
+Claim ID / ข้อความทุกภาษาและสื่อจริง (claim text in every language and the actual media):
+รุ่น/ผู้ชม/ตลาด/ช่วงเผยแพร่ (version / audience / market / airing period):
+คุณสมบัติ ราคา ฟรี เปรียบเทียบ สถิติ รับประกัน (features, price, free, comparison, statistics, warranty):
+ต้นฉบับ/ผู้ทดสอบ/วัน/วิธี/สภาวะ (source document / test body / date / method / conditions):
+กลุ่มเปรียบเทียบ/ตัวอย่าง/ข้อจำกัด/วันทบทวน (comparison group / sample / limits / review date):
+การเปิดเผยเงื่อนไขที่อ่าน/ฟังได้จริง (disclosure of conditions actually readable/audible):
+รีวิว/affiliate/ความสัมพันธ์/ผลประโยชน์ (review / affiliate / relationship / benefit):
+ภาพ AI/ปรับแต่ง/เปิดเผย/ภาพตรงของจริง (AI/edited imagery / disclosure / match to the real product):
+ผู้ตรวจ/อนุมัติ/ผ่านหรือแก้ (reviewer / approver / pass or amend):
+หลักฐาน ณ เผยแพร่/รุ่น/เวลาหยุด (evidence at publication / version / stop time):
+หนังสือพิสูจน์: วันรับ/ถือว่ารับ กำหนดตอบ เจ้าของ (substantiation order: received/deemed-received date, response deadline, owner):
 ```
 
 benchmark คนละรุ่น/ตลาดไม่รองรับคำอ้างครอบคลุม ข้อ 11 มี 15 วันหลังรับ/ถือว่ารับหนังสือ ไม่ใช่ค่อยหาหลักฐานหลังโฆษณา Disclosure affiliate เป็นแนวออกแบบ; ร่าง ม.26/1 **ร่าง — ยังไม่มีผลใช้บังคับ** [S28–S29]

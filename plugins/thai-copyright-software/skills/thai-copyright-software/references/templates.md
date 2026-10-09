@@ -21,7 +21,7 @@
 ```text
 ผู้โอน/Assignor [....]; ผู้รับโอน/Assignee [....]; วันจริง/Actual date [....]
 1. งาน/Works: ภาคผนวก 1 repo/commit/เวอร์ชัน/โค้ด/เอกสาร; ภาคผนวก 2 วัสดุเดิม/OSS/AI/ภาระ
-   Schedule 1: repositories/commits/versions/code/documents; Schedule 2: background/OSS/AI/encumbrances.
+   Schedule 1: repositories/commits/versions/code/documents; Schedule 2: background/OSS/AI/encumbrances รวม OSS/third-party grants ที่ให้ไว้ก่อนโอนและรอดตาย (LICENSE/NOTICE).
 2. โอนลิขสิทธิ์ที่มีในงานทั้งหมด ณ วันนี้ ตลอดอายุ ทั่วโลกเท่าที่กฎหมายยอมรับ รวมทำซ้ำ ดัดแปลง เผยแพร่ ให้เช่า/อนุญาต ไม่ใช่สิบปี ม.17
    Hereby assigns all existing copyright for its full term, worldwide where recognised, including reproduction, adaptation, communication, rental/licensing, not the ten-year default.
 3. งานอนาคตขอบเขต [....]: ตกลงโอนเมื่อเกิดสิทธิเท่าที่บังคับได้ ระหว่างยังไม่โอนให้ licence สิทธิข้อ 2 แต่ผู้เดียวแม้ต่อผู้โอน รวมช่วงสิทธิ ตลอดอายุ ไม่มีค่าตอบแทนเพิ่ม ไม่เพิกถอนเท่าที่กฎหมายอนุญาต; ยืนยันโอนทุกส่งมอบ
@@ -30,7 +30,18 @@
    Assigns scheduled accrued economic claims so far as assignable and cooperates with written debtor notification, CCC s.306; this clause does not transfer criminal-complaint authority.
 5. รับรองสิทธิที่โอน ยกเว้นภาคผนวก 2; ลงเอกสารเพิ่มเติมตามสมควรโดยค่าใช้จ่ายผู้รับโอนที่ตกลง; ศีลธรรมภาคผนวกตามข้อ 5
    Warrants title subject to Schedule 2; provides reasonable further assurances at agreed Assignee cost; signed moral consent follows template 5.
+6. [เลือก/Optional] ความลับทางการค้า/know-how ภาคผนวก 4 โอนเป็นหนังสือลงลายมือชื่อผู้โอนและผู้รับโอนตาม พ.ร.บ.ความลับทางการค้าฯ ม.5; ไม่ระบุเวลา = สิบปี; หน้าที่รักษาความลับไม่สิ้นผลเพราะการโอน
+   Optional: trade secrets/know-how in Schedule 4 assigned in writing signed by both parties under TSA s.5; absent a stated term, ten years; confidentiality duties do not lapse on the transfer.
 ค่าตอบแทน/Consideration [....]; ผู้โอน/Assignor ____; ผู้รับโอน/Assignee ____; ผู้แทนถ้าจำเป็น/Guardian if required ____
+```
+
+**ภาคผนวก/ANNEX: บอกกล่าวการโอน (ป.พ.พ. ม.306)**
+
+```text
+ถึงลูกหนี้/บุคคลภายนอก/Debtor [ชื่อ ที่อยู่/name, address]
+โดยหนังสือฉบับนี้ ผู้โอน/Assignor [....] แจ้งว่าตนได้โอนสิทธิเรียกร้อง [รายการ/ช่วง/วัน/จำนวน] ตามหนังสือโอนลงวันที่ [....] ให้ผู้รับโอน/Assignee [....] ตั้งแต่วันที่ [....]
+ตราสารโอนทำเป็นหนังสือลงลายมือชื่อผู้โอนและผู้รับโอนแล้ว; เมื่อได้บอกกล่าวแก่ลูกหนี้/บุคคลภายนอกเป็นหนังสือ จึงยกการโอนขึ้นต่อสู้ได้; ขอให้ชำระหนี้/ปฏิบัติต่อผู้รับโอนนับแต่วันที่ได้รับหนังสือนี้
+ลงชื่อผู้โอน/Assignor ____; ลงชื่อผู้รับโอนถ้าร่วมบอกกล่าว/Assignee ____; วันรับหนังสือ/Acknowledged [....]
 ```
 
 ## 2. ยืนยันและโอน (Confirmatory Assignment)
@@ -137,8 +148,16 @@ Sublicensing/transfer [....]; fee [....]; improvements [....]; termination/exist
 ```text
 | ID | repo/งาน/Work | ผู้สร้าง/Git→คนจริง/Author | A–I/Class | ช่วง/Period | ม.8 ประเทศ/ถิ่น/โฆษณา/Qualification | เอกสาร/วัน/Instrument | 2ลายมือชื่อ/Both signed | อายุ/Term | ศีลธรรม/Claims | OSS/AI | ธง/Risk | ผู้รับผิดชอบ/กำหนด/Owner/Due | หลักฐานปิด/Closure |
 สรุป/Summary: ปิด/closed [....]; เปิด/open [....]; ไม่ทราบตัวตน/unidentified [....]
-Manifest: ทะเบียน+โอน+ศีลธรรม+ม.8+มติ+SBOM/NOTICE+disclosure
-Register + assignments + moral consent + qualification + approvals + SBOM/NOTICE + disclosure.
+Manifest (ปิดดีล/Closing manifest) — ติ๊กและระบุที่เก็บ/แนบ:
+☐ ทะเบียน chain-of-title (ตารางข้างบน) [....]
+☐ หนังสือโอน/ยืนยัน ฉบับลงนามสองฝ่าย [....]
+☐ คำยินยอมศีลธรรม (แม่แบบ 5) [....]
+☐ หลักฐาน ม.8 สัญชาติ/ถิ่นที่อยู่/วันโฆษณา [....]
+☐ มติ/อำนาจกรรมการ–ผู้ถือหุ้น [....]
+☐ SBOM/NOTICE/CLA/DCO [....]
+☐ disclosure/คำรับรอง/ชดใช้ [....]
+☐ โดเมนเนม บัญชี registrar/DNS/2FA + transfer lock [....]
+Register + assignments + moral consent + qualification + approvals + SBOM/NOTICE + disclosure + domain accounts.
 ```
 
 A–I ตาม `software_chain_of_title.md` ข้อ 2 เก็บข้อมูลบุคคลเท่าจำเป็น

@@ -1,6 +1,6 @@
 # key_sections.md — ตัวบท กฎหมายลำดับรอง และแหล่งอ้างอิงสำคัญ
 
-อ่านไฟล์นี้เมื่ออ้างมาตรา/แหล่ง — **ข้อมูล ณ 9 ตุลาคม 2569 (2026)** **(สรุปสาระ)** ระดับ B จนเทียบตัวบท; รหัส S1–S15 ใช้ร่วมกัน
+อ่านไฟล์นี้เมื่ออ้างมาตรา/แหล่ง — **ข้อมูล ณ 9 ตุลาคม 2569 (2026)** **(สรุปสาระ)** ระดับ B จนเทียบตัวบท; รหัส S1–S16 ใช้ร่วมกัน
 
 ---
 
@@ -24,6 +24,7 @@
 | พ.ร.บ.การส่งออกไปนอกและการนำเข้ามาในราชอาณาจักรซึ่งสินค้า พ.ศ.2522 (1979); Export and Import of Goods Act | 9 พ.ค.2522 → วันถัดไป; พ.ร.ฎ.2545/2–2558 (2015): 15 ก.ย.2558 → พ้น 90 วัน [S15] | ไม่มี |
 | พ.ร.บ.ป้องกันและปราบปรามการฟอกเงิน พ.ศ.2542 (1999); Anti-Money Laundering Act | 21 เม.ย.2542 → พ้น 120 วัน; 2–6 (2551/2552/2556/2558/2565)+กฎหมายอื่น; นิยามผู้รายงาน [S9] | ไม่มี |
 | Regulation (EU) No.833/2014 (2014); ระเบียบ EU เรื่องรัสเซีย | flag ข้อ 12g; ฉบับ/ภาคผนวก/วันใช้ให้ทนาย EU ตรวจ ไม่ใช่ฐานไทย [S13] | ไม่มี |
+| Regulation (EU) 2021/821 (2021); ระเบียบ EU เรื่องสินค้าใช้ได้สองทาง (dual-use) | ส่งออกนอกรัฐศุลกากร EU ทางอิเล็กทรอนิกส์=**การส่งออก** ม.2; ย้ายภายใน EU=transfer; รายการ **Annex IV** ต้องขออนุญาต ม.11; ให้ทนาย EU ตรวจ ไม่ใช่ฐานไทย [S16] | ไม่มี |
 
 เส้นทางคลังอ้างฐาน `thai-legal-library`; ไม่พบแก้ไขจำกัดตามแหล่งที่ตรวจ
 
@@ -93,6 +94,7 @@ Reg.833/2014 ข้อ 12g เฉพาะรายการของคู่�
 - **S13** เตือนต่างประเทศ: https://www.bis.gov/regulations/ear/732 (Supplement No. 3: KYC/Red Flags) ; https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-734 ; https://ofac.treasury.gov/media/16331/download ; https://policy.trade.ec.europa.eu/help-exporters-and-importers/exporting-dual-use-items_en ; https://finance.ec.europa.eu/publications/no-re-export-russia-clause_en ; https://www.gov.uk/guidance/trade-sanctions-arms-embargoes-and-other-trade-restrictions
 - **S14** ป.พ.พ./ข้อสัญญาไม่เป็นธรรม: https://jla.coj.go.th/th/content/page/index/id/121227 ; https://civilmbc.coj.go.th/cms/s331/joporkhadee/law/พรบ_ว่าด้วยข้อสัญญาที่ไม่เป็นธรรม2540.pdf
 - **S15** พ.ร.บ.ส่งออกฯ ประมวล (DOCX): https://www.dft.go.th/th-th/Detail-Law/ArticleId/2059/28
+- **S16** Reg. (EU) 2021/821 (dual-use): https://eur-lex.europa.eu/eli/reg/2021/821/oj
 
 ## รายการที่ต้องตรวจซ้ำ
 - หลังมติ 18 ก.ย.: EUC/CAC/Bulk/หมวด 7–9 และวันเริ่ม; S3 ใบอนุญาต 30 ก.ค. ไม่ใช่ 30 มิ.ย.

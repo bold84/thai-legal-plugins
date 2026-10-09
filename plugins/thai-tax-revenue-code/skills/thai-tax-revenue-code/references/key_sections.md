@@ -167,7 +167,7 @@
 | PIT | ภ.ง.ด.90/91 · 93 · 94 · 95 | รายปีมีนาคม (ม.56) · ครึ่งปีกันยายน (ม.56 ทวิ) · ผ่อน 3 งวดเมื่อ ≥3,000 (ม.64) | [P9][P10][P1] |
 | CIT | ภ.ง.ด.50 + งบการเงินที่ตรวจสอบรับรอง · ภ.ง.ด.51 | 150 วัน (ม.68) · 2 เดือนนับแต่วันสุดท้ายของรอบ 6 เดือนแรก (ม.67 ทวิ) | [C13][C17][C23] |
 | WHT | ภ.ง.ด.1, 1ก, 2, 2ก, 3, 3ก, 53, 54 | รายเดือนวันที่ 7 ของเดือนถัดไป (ประกาศ กค. 24 ก.ค. 2544; ออนไลน์ 15) · 1ก ก.พ. · 2ก/3ก ม.ค. | [W7][W8][W9][W15][W21] |
-| VAT/SBT/อากร | ภ.พ.30 · ภ.พ.36 · ภ.ธ.40 · อ.ส.9 และ อ.ส.4/4ก/4ข | ภ.พ.30/ภ.ธ.40 วันที่ 15 (ออนไลน์ 23) · ภ.พ.36 15 วัน · อากรแสตมป์ 15 วัน (ม.113) | [V1][V2][V12][V16] |
+| VAT/SBT/อากร | ภ.พ.30 · ภ.พ.36 · ภ.ธ.40 · อ.ส.9 และ อ.ส.4/4ก/4ข | ภ.พ.30/ภ.ธ.40 วันที่ 15 (ออนไลน์ 23) · ภ.พ.36 — 7 วันนับแต่สิ้นเดือนที่จ่าย; ออนไลน์ 15 วัน (กำหนดเดิม 1 ก.พ. 2567–31 ม.ค. 2570) · อากรแสตมป์ 15 วัน (ม.113) | [V1][V2][V12][V16][V24] |
 | อุทธรณ์ | **ภ.ส.6** (ทุกกรณี) · **กศก.171** (VAT ของศุลกากร) | ยื่นคณะกรรมการใน 30 วันนับแต่วันรับแจ้ง (ม.30) | [L17][L18][L1] |
 | อุทธรณ์–คำร้องเกี่ยวเนื่อง | คำร้องขอขยายเวลาอุทธรณ์ (ต่ออธิบดี ตาม ม.3 อัฏฐ) · คำร้องขอทุเลาการเสียภาษี · ท.ป.2 | แล้วแต่กรณี | [L12][L17][A7][A22] |
 | ลด/งดเบี้ยปรับ | คำร้องของดหรือลดเบี้ยปรับหรือเงินเพิ่มภาษีอากร | ยื่น **ก่อน** หนังสือแจ้งการประเมิน (ท.ป.369/2569 ข้อ 3) | [L17][L14] |
@@ -216,11 +216,11 @@ W21 https://www.rd.go.th/2625.html (ประกาศ กค. 24 ก.ค. 2544 
 V3 https://www.rd.go.th/5203.html · https://www.rd.go.th/6162.html · V4 https://www.rd.go.th/1603.html · https://www.rd.go.th/21221.html · https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dc807.pdf · V5 https://www.rd.go.th/22646.html ·
 V6 https://www.rd.go.th/2949.html · V7 https://www.rd.go.th/40811.html · V8 https://www.rd.go.th/2383.html · V9 https://www.rd.go.th/2818.html (พ.ร.ฎ. 342/2541) · V10 https://www.rd.go.th/63775.html · https://www.rd.go.th/63781.html · V11 https://www.rd.go.th/35772.html ·
 V12 https://www.rd.go.th/1600.html · https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/mofexpandfornet7A.docx · https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/mofexpandfornet9.docx · V13 https://www.rd.go.th/46202.html ·
-V14 https://www.rd.go.th/3403.html (ประกาศอธิบดีฯ VAT ฉบับที่ 29) · V15 https://www.rd.go.th/6160.html · V16 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dgs66A.pdf ·
+V14 https://www.rd.go.th/3403.html (ประกาศอธิบดีฯ VAT ฉบับที่ 29) · V15 https://www.rd.go.th/6160.html · V16 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dgs66A.pdf (ประกาศอธิบดีฯ อากรแสตมป์ ฉบับที่ 66 — **ฉบับสมบูรณ์ ลงนาม 1 ก.พ. 2566**; หัวข้อ '-ร่าง-' ท้ายไฟล์เป็นหัวข้อค้าง) ·
 V17 https://efiling.rd.go.th/ef-cms-web/ · https://www.rd.go.th/42940.html · V18 https://www.rd.go.th/25362.html (ข้อหารือ กค 0811/ก.104) · V19 https://www.rd.go.th/17014.html ·
 V20 https://www.rd.go.th/fileadmin/user_upload/news/2569thai/news14_2569.pdf · V21 https://www.rd.go.th/1603.html ·
 V22 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dc469.pdf · https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dc525.pdf (พ.ร.ฎ. 469/2551 และ 525/2554 — SBT 0.01%) ·
-V23 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/mr384.pdf (กฎกระทรวง 384/2565)
+V23 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/mr384.pdf (กฎกระทรวง 384/2565) · V24 https://www.rd.go.th/2625.html (ประกาศ กค. 24 ก.ค. 2544 ข้อ 4 — **ภ.พ.36 นำส่ง VAT ภายใน 7 วันนับแต่วันสิ้นเดือนที่จ่าย ตาม ม.83/5, 83/6**; ฉบับเดียวกับ [W21]) · V25 https://www.rd.go.th/region/08/chiangrai/265/4309.html (ประกาศกรมสรรพากร ลง 15 ม.ค. 2569 — ตัวอย่าง: e-Stamp รับ**ตราสารกระดาษ** อ.ส.4/4ก/4ข **ตั้งแต่ 2 ม.ค. 2569**)
 
 **A (tax_administration_and_disputes.md)** — A1 `references/big_data_md/01_codes/ประมวลรัษฎากร.md` · A2 `references/big_data_md/01_codes/ประมวลกฎหมายแพ่งและพาณิชย์.md` ·
 A3 https://www.rd.go.th/1598.html · A4 https://www.rd.go.th/3361.html (ท.ป.81/2542) · A5 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/tp369A.pdf · A6 https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/tp370A.pdf ·

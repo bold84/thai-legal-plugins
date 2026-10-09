@@ -79,6 +79,10 @@ which are incorporated by reference into this clause.
 
 [แบบ SIAC](https://siac.org.sg/siac-model-clause) ระบุ seat/กฎหมายข้อสัญญา ไม่ถือว่าสถาบันคือที่นั่ง
 
+SIAC Rules 2025 (ฉบับที่ 7, ใช้ 1 มกราคม 2568): **Streamlined** อัตโนมัติเมื่อจำนวนที่พิพาท ≤ **S$1 ล้าน** เว้นแต่ประธานสั่งเป็นอื่น (ข้อ 13.1(ข)) หรือคู่สัญญาตัดแบบเป็นหนังสือ (ข้อ 13.3); **Expedited** ≤ **S$10 ล้าน** โดยยื่นขอและประธานอนุมัติ (ข้อ 14.2/14.3) — expedited **ไม่อัตโนมัติ**
+
+seat สิงคโปร์: ระบุว่าอยู่ใต้ **Singapore International Arbitration Act 1994** และอาจเพิ่ม optional **SICC supervisory-court clause** ตาม SIAC Model Clauses (แก้ไข 9 ธันวาคม 2567, พิมพ์พร้อมกติกา 2568)
+
 ### ICC — International Chamber of Commerce
 
 ```text
@@ -151,6 +155,8 @@ on a court over disputes subject to this arbitration agreement.
 ม.16 ก่อน/ระหว่าง; หลังคำชี้ขาดสุดท้ายตรวจฐานขอบังคับ ไม่ให้ carve-out เปิดฟ้อง merits ซ้อนหรือรับประกัน emergency order ไทย
 
 ไกล่เกลี่ยต้องมีฐานบังคับ: สัญญา/กฎหมายไกล่เกลี่ย/consent award ม.36–37 เมื่อเข้าเงื่อนไข ไม่ใช้ Singapore Convention กับไทย
+
+**ร่างให้ชัด:** กำหนด **ดอกเบี้ยเรียบง่าย (simple interest)** ไม่ทบต้น และจัดสรรค่าใช้จ่ายตาม **กติกาสถาบันที่ตกลงกัน** เพื่อลดข้อโต้แย้งตอนบังคับ (เทียบ ม.224 ว.2 และ ม.46 ใน `enforcing_foreign_awards.md`)
 
 ## 5. รัฐ หลายสัญญาและตรวจสองภาษา
 
