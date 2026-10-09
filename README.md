@@ -1,19 +1,19 @@
 # ปลั๊กอินงานกฎหมายไทย (Thai Legal Plugins)
 
-ชุดปลั๊กอินสำหรับสำนักงานทนายความไทย ใช้ใน Cowork / Claude Code — ครอบคลุมงานตั้งแต่รับเรื่อง ตรวจ conflict ร่างคำคู่ความ บริหารสำนวน ให้ความเห็นทางกฎหมาย ตรวจ compliance ไปจนถึงงานทรัพย์สินทางปัญญา
+ชุดปลั๊กอินสำหรับสำนักงานทนายความไทย ใช้ใน Cowork / Claude Code — ครอบคลุมงานตั้งแต่รับเรื่อง ตรวจ conflict ร่างคำคู่ความ บริหารสำนวน ให้ความเห็นทางกฎหมาย ตรวจ compliance งานทรัพย์สินทางปัญญา ไปจนถึงงานสัญญาและธุรกรรมข้ามพรมแดน ภาษีระหว่างประเทศ ข้อมูลส่วนบุคคล เทคโนโลยี และ AI
 
 ## ✨ สิ่งที่ได้
 
 - **คลังตัวบทกฎหมาย** 45 ไฟล์ (ประมวลกฎหมาย พ.ร.บ. กฎหมายลำดับรอง ฎีกาบรรทัดฐาน)
 - **คลังแบบพิมพ์ศาล** 192 ฟอร์ม (ศาลยุติธรรม คดีผู้บริโภค แรงงาน ปกครอง ภาษี ล้มละลาย ฯลฯ)
-- **ปลั๊กอินงาน 14 ตัว** ครอบคลุมขั้นตอนตั้งแต่รับเรื่องไปจนถึงปิดคดี
+- **ปลั๊กอินงาน 24 ตัว** ครอบคลุมตั้งแต่รับเรื่องไปจนถึงปิดคดี รวมงานที่ปรึกษาด้านสัญญา ภาษีข้ามพรมแดน การลงทุน PDPA เทคโนโลยี และ AI
 
 ## 📋 รายการปลั๊กอิน
 
 ### คลัง (Library)
 | ปลั๊กอิน | ขนาด | บทบาท |
 |---|---:|---|
-| `thai-legal-library` ⭐ | 1.4 MB | คลังตัวบทกฎหมาย — **ต้องลงก่อนเสมอ** |
+| `thai-legal-library` ⭐ | 1.4 MB | คลังตัวบทกฎหมาย — ปลั๊กอินงานประกาศ dependency ให้ติดตั้งคู่กัน |
 | `thai-legal-forms` | 116 MB | คลังแบบฟอร์มศาล — ลงเมื่อต้องใช้แบบฟอร์ม (ดาวน์โหลดจาก Releases) |
 
 ### Litigation (คดีความ)
@@ -45,57 +45,82 @@
 | `thai-corporate-secretarial` | งานเลขานุการบริษัท |
 | `thai-patent` | สิทธิบัตร |
 | `thai-trademark` | เครื่องหมายการค้า |
+| `thai-copyright-software` | ลิขสิทธิ์ซอฟต์แวร์ ห่วงโซ่สิทธิ โอเพนซอร์ส และความลับทางการค้า |
+
+### Commercial & Cross-border (สัญญาและธุรกรรมข้ามพรมแดน)
+| ปลั๊กอิน | บทบาท |
+|---|---|
+| `thai-contract-master` | ร่าง/ตรวจสัญญาทางธุรกิจ พร้อมคลังข้อสัญญาไทย-อังกฤษ |
+| `thai-tax-international` | ภาษีหัก ณ ที่จ่าย VAT อากรแสตมป์ ราคาโอน และอนุสัญญาภาษีซ้อน |
+| `thai-boi-foreign-business` | BOI ธุรกิจคนต่างด้าว ใบอนุญาตทำงานและวีซ่า |
+| `thai-international-disputes` | อนุญาโตตุลาการ บังคับคำชี้ขาดต่างประเทศ ขัดกันแห่งกฎหมาย |
+| `thai-export-control` | ควบคุมการส่งออกสินค้าที่ใช้ได้สองทางและมาตรการคว่ำบาตร (ใช้เมื่อส่งออก) |
+
+### Technology & Data (เทคโนโลยี ข้อมูล และดิจิทัล)
+| ปลั๊กอิน | บทบาท |
+|---|---|
+| `thai-pdpa` | PDPA เชิงลึก — สัญญาประมวลผล คำขอใช้สิทธิ เหตุละเมิด การโอนข้อมูลไปต่างประเทศ |
+| `thai-tech-platform-law` | พ.ร.บ.คอมพิวเตอร์ ธุรกรรมอิเล็กทรอนิกส์ แพลตฟอร์มดิจิทัล ไซเบอร์ |
+| `thai-ai-governance` | กำกับดูแล AI — ร่างกฎหมาย AI แนวปฏิบัติ และข้อสัญญา AI |
+| `thai-ecommerce-consumer` | ขายออนไลน์ให้ผู้บริโภค — คุ้มครองผู้บริโภค ขายตรงและตลาดแบบตรง (ใช้เมื่อเป็น B2C) |
 
 ## 🚀 วิธีติดตั้ง
 
-### วิธีที่ 1: ติดตั้งทั้ง marketplace (แนะนำ)
+### วิธีที่ 1: เพิ่ม marketplace แล้วเลือกปลั๊กอินตามงาน
 
-ใน Cowork พิมพ์คำสั่ง:
+ใน Cowork / Claude Code เพิ่ม marketplace:
 
-```
-/plugin marketplace add your-github-username/thai-legal-plugins
-```
-
-จากนั้นเรียกดูปลั๊กอินที่มีและเลือกลง:
-
-```
-/plugin install thai-legal-library@thai-legal-plugins
-/plugin install thai-litigation-pleadings@thai-legal-plugins
+```text
+/plugin marketplace add bold84/thai-legal-plugins
 ```
 
-หรือลงทุกตัวเลย:
+หากใช้งานจาก checkout นี้ ให้เพิ่มจากโฟลเดอร์ปัจจุบันใน terminal แทน:
 
+```sh
+claude plugin marketplace add .
 ```
-/plugin install --all@thai-legal-plugins
+
+เลือกติดตั้งปลั๊กอินที่ต้องใช้ เช่น:
+
+```text
+/plugin install thai-contract-master@thai-legal-plugins
+/plugin install thai-pdpa@thai-legal-plugins
 ```
+
+ปลั๊กอินงานทั้ง 24 ตัวประกาศ `dependencies: ["thai-legal-library"]` จึงติดตั้งคลังคู่กัน
+โดยไม่ต้องเดาเส้นทางโฟลเดอร์ข้างเคียง เปิด `/plugin` เพื่อเลือกติดตั้งตัวอื่นตามขอบเขตงาน
+ส่วนแบบฟอร์มศาลเป็นรายการเสริม ไม่ได้ติดตั้งอัตโนมัติ
 
 ### วิธีที่ 2: ติดตั้งแบบฟอร์มศาล (แยกต่างหาก)
 
-แบบฟอร์มศาล (116 MB) เกินขีดจำกัด GitHub marketplace จึงอยู่ใน Releases:
+แบบฟอร์มศาล (116 MB) แยกเผยแพร่เป็นไฟล์ `.skill` ใน Releases ของโครงการต้นฉบับ:
 
-1. ไปที่ https://github.com/your-github-username/thai-legal-plugins/releases/latest
+1. ไปที่ https://github.com/thaitanalawfirm/thai-legal-plugins/releases/latest
 2. ดาวน์โหลดไฟล์ `thai-legal-forms.skill`
 3. ลาก/วางในแชท Cowork → กด "Save skill"
 
 ## 📐 ลำดับติดตั้งแนะนำ
 
-```
-1. thai-legal-library              ← ลงก่อนเสมอ
-2. thai-legal-forms                ← ลงเมื่อต้องใช้แบบฟอร์ม
-3. ปลั๊กอินงานที่ใช้เป็นประจำ
+```text
+1. ปลั๊กอินงานที่ต้องใช้            ← ติดตั้งพร้อม dependency thai-legal-library
+2. thai-legal-forms                ← ลงเพิ่มเฉพาะเมื่อต้องใช้แบบฟอร์มศาล
 ```
 
 ## 🔄 การอัปเดต
 
-```
-/plugin update --all@thai-legal-plugins
+อัปเดต catalog ใน Cowork / Claude Code:
+
+```text
+/plugin marketplace update thai-legal-plugins
 ```
 
-หรืออัปเดตเฉพาะตัว:
+จากนั้นอัปเดตปลั๊กอินที่ติดตั้งใน terminal เช่น:
 
+```sh
+claude plugin update thai-contract-master@thai-legal-plugins
 ```
-/plugin update thai-legal-library@thai-legal-plugins
-```
+
+ใน Claude Code เรียก `/reload-plugins` หรือเริ่ม session ใหม่เพื่อโหลดรุ่นที่อัปเดต
 
 ## ⚖️ ข้อสำคัญในการใช้
 
@@ -111,6 +136,13 @@
 - ติดต่อ: [อีเมล]
 
 ## 📜 Changelog
+
+### v1.1.0 — 9 ต.ค. 2569
+- เพิ่มปลั๊กอินงาน 10 ตัว: `thai-copyright-software` (Corporate & IP) · `thai-contract-master`, `thai-tax-international`, `thai-boi-foreign-business`, `thai-international-disputes`, `thai-export-control` (สัญญาและธุรกรรมข้ามพรมแดน) · `thai-pdpa`, `thai-tech-platform-law`, `thai-ai-governance`, `thai-ecommerce-consumer` (เทคโนโลยี ข้อมูล และดิจิทัล)
+- ข้อมูลกฎหมายของปลั๊กอินใหม่ ณ 9 ต.ค. 2569 แต่ละตัวมี `references/key_sections.md` ระบุตัวบท วันมีผล แหล่งทางการ และรายการที่ต้องตรวจซ้ำ ตรวจข้อเท็จจริงแยกจากผู้เขียนกับแหล่งทางการแล้ว แต่ยังต้องตรวจฉบับปัจจุบันก่อนใช้จริง
+- ปลั๊กอินงานทั้ง 24 ตัวประกาศ `dependencies: ["thai-legal-library"]` และค้นคลังจากฐานสกิลคลังที่ติดตั้งจริง (`references/big_data_md/`) แทนเส้นทางโฟลเดอร์ข้างเคียง
+- ปลั๊กอินเดิมส่งต่องานไปยังปลั๊กอินใหม่ตามขอบเขต เช่น PDPA เชิงลึก → `thai-pdpa` และงานสัญญา → `thai-contract-master`
+- `thai-legal-library` 1.0.1: ปรับรายชื่อปลั๊กอินที่เรียกใช้ ระบุตัวบทที่ยังไม่มีในคลัง และลบข้อความ ม.70 (๑)–(๔) ประมวลรัษฎากรที่ถูกยกเลิกตั้งแต่ 1 ม.ค. 2535
 
 ### v1.0.0 — 29 พ.ค. 2569
 - เปิดตัวปลั๊กอินครั้งแรก 16 ตัว

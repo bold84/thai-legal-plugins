@@ -17,7 +17,7 @@
 **ข้อมูลเฉพาะ:** ประเภทสัญญา คู่สัญญา มูลหนี้ จำนวนเงิน วันถึงกำหนด การผิดนัด การทวงถาม
 **เอกสาร:** สัญญา หลักฐานการชำระ/ค้างชำระ หนังสือทวงถาม หลักประกัน
 **กำหนดเวลาที่ต้องระวัง:** อายุความตามประเภทสิทธิเรียกร้อง → `thai-litigation-deadlines`
-**ส่งต่อ:** ร่างฟ้อง → `thai-litigation-pleadings` · ตรวจสัญญา → สกิลกลุ่มสัญญา
+**ส่งต่อ:** ร่างฟ้อง → `thai-litigation-pleadings` · ตรวจสัญญา → `thai-contract-master`
 
 ## 2. คดีแพ่ง — ละเมิด/เรียกค่าเสียหาย
 
@@ -57,12 +57,16 @@
 **ข้อมูลเฉพาะ:** ประเภทธุรกรรม คู่ธุรกรรม โครงสร้าง วัตถุประสงค์ทางธุรกิจ กรอบเวลา
 **เอกสาร:** ร่างสัญญา เอกสารบริษัท เอกสารธุรกรรม
 **ส่งต่อ:** ความเห็น → `thai-legal-opinion` · ตรวจสถานะ → `thai-legal-due-diligence` ·
-compliance → `thai-compliance-audit` · งานบริษัท/IP → สกิลกลุ่ม 6
+compliance → `thai-compliance-audit` · งานบริษัท/IP → สกิลกลุ่ม 6 (รวม `thai-copyright-software`) ·
+สัญญา ภาษี การลงทุน ข้อพิพาท และการส่งออกข้ามพรมแดน → สกิลกลุ่ม 3 (`thai-contract-master`,
+`thai-tax-international`, `thai-boi-foreign-business`, `thai-international-disputes`,
+`thai-export-control`) · ข้อมูลส่วนบุคคล เทคโนโลยี AI และขายออนไลน์ → สกิลกลุ่ม 7 (`thai-pdpa`,
+`thai-tech-platform-law`, `thai-ai-governance`, `thai-ecommerce-consumer`)
 
 ## 8. งานนิติกรรมทั่วไป
 
 **ข้อมูลเฉพาะ:** สิ่งที่ลูกความต้องการให้จัดทำ คู่กรณี เงื่อนไขที่ต้องการ
-**ส่งต่อ:** ร่าง/ตรวจสัญญา → สกิลกลุ่มสัญญา
+**ส่งต่อ:** ร่าง/ตรวจสัญญา → `thai-contract-master`
 
 ---
 
