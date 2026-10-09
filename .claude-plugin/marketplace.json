@@ -3,14 +3,14 @@
   "owner": {
     "name": "thaitanalawfirm"
   },
-  "description": "ปลั๊กอินงานกฎหมายไทยสำหรับสำนักงานทนายความ — คลังตัวบทกฎหมาย + 24 ปลั๊กอินงานครอบคลุมตั้งแต่รับเรื่อง ตรวจ conflict ค่าวิชาชีพ ร่างคำคู่ความ บริหารสำนวน งานทรัพย์สินทางปัญญา ไปจนถึงสัญญาและธุรกรรมข้ามพรมแดน ภาษีระหว่างประเทศ PDPA เทคโนโลยี และ AI",
-  "version": "1.1.0",
+  "description": "ปลั๊กอินงานกฎหมายไทยสำหรับสำนักงานทนายความ — คลังตัวบทกฎหมาย + 25 ปลั๊กอินงานครอบคลุมตั้งแต่รับเรื่อง ตรวจ conflict ค่าวิชาชีพ ร่างคำคู่ความ บริหารสำนวน งานทรัพย์สินทางปัญญา ภาษีอากรตามประมวลรัษฎากร ไปจนถึงสัญญาและธุรกรรมข้ามพรมแดน ภาษีระหว่างประเทศ PDPA เทคโนโลยี และ AI",
+  "version": "1.2.0",
   "plugins": [
     {
       "name": "thai-legal-library",
       "source": "./plugins/thai-legal-library",
       "description": "คลังตัวบทกฎหมายไทย — ประมวลกฎหมาย พ.ร.บ. กฎหมายลำดับรอง 45 ไฟล์ใน 6 หมวด (ติดตั้งอัตโนมัติเมื่อลงปลั๊กอินงานตัวใดก็ได้)",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "library"
     },
     {
@@ -49,7 +49,7 @@
       "name": "thai-client-intake",
       "source": "./plugins/thai-client-intake",
       "description": "รับเรื่อง รับฟังข้อเท็จจริงเบื้องต้น คัดกรองความเร่งด่วนของคดี",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "case-management",
       "dependencies": ["thai-legal-library"]
     },
@@ -65,7 +65,7 @@
       "name": "thai-engagement-fees",
       "source": "./plugins/thai-engagement-fees",
       "description": "ร่างหนังสือว่าจ้างและกำหนดค่าวิชาชีพ — ตามกรอบมรรยาททนายความ",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "case-management",
       "dependencies": ["thai-legal-library"]
     },
@@ -89,7 +89,7 @@
       "name": "thai-legal-due-diligence",
       "source": "./plugins/thai-legal-due-diligence",
       "description": "ตรวจสอบสถานะทางกฎหมาย (Legal DD) สำหรับธุรกรรม M&A สัญญา",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "advisory",
       "dependencies": ["thai-legal-library"]
     },
@@ -97,15 +97,23 @@
       "name": "thai-compliance-audit",
       "source": "./plugins/thai-compliance-audit",
       "description": "ตรวจสอบการปฏิบัติตามกฎหมาย — แรงงาน PDPA คุ้มครองผู้บริโภค",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "advisory",
+      "dependencies": ["thai-legal-library"]
+    },
+    {
+      "name": "thai-tax-revenue-code",
+      "source": "./plugins/thai-tax-revenue-code",
+      "description": "ภาษีอากรตามประมวลรัษฎากร — ภาษีเงินได้บุคคลธรรมดาและนิติบุคคล ภาษีหัก ณ ที่จ่าย VAT ภาษีธุรกิจเฉพาะ อากรแสตมป์ การยื่นแบบ หมายเรียกและการประเมิน การลดเบี้ยปรับ อุทธรณ์ และคดีภาษีอากร",
+      "version": "1.0.0",
+      "category": "tax",
       "dependencies": ["thai-legal-library"]
     },
     {
       "name": "thai-corporate-secretarial",
       "source": "./plugins/thai-corporate-secretarial",
       "description": "งานเลขานุการบริษัท — ประชุมผู้ถือหุ้น/กรรมการ มติ รายงานการประชุม",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "corporate",
       "dependencies": ["thai-legal-library"]
     },
@@ -137,7 +145,7 @@
       "name": "thai-contract-master",
       "source": "./plugins/thai-contract-master",
       "description": "ร่างและตรวจสัญญาทางธุรกิจตาม ป.พ.พ. และ พ.ร.บ.ว่าด้วยข้อสัญญาที่ไม่เป็นธรรม — SaaS พัฒนาซอฟต์แวร์ จัดจำหน่าย อนุญาตให้ใช้สิทธิ NDA พร้อมคลังข้อสัญญาไทย-อังกฤษ",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "commercial",
       "dependencies": ["thai-legal-library"]
     },
@@ -145,7 +153,7 @@
       "name": "thai-tax-international",
       "source": "./plugins/thai-tax-international",
       "description": "ภาษีธุรกรรมข้ามพรมแดน — ภาษีหัก ณ ที่จ่าย ค่าสิทธิ/ค่าบริการ VAT อากรแสตมป์ ราคาโอน อนุสัญญาภาษีซ้อน และหนังสือรับรองถิ่นที่อยู่ทางภาษี",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "tax",
       "dependencies": ["thai-legal-library"]
     },

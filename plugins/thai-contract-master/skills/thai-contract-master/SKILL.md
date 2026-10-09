@@ -20,7 +20,7 @@ description: ใช้สกิลนี้ทุกครั้งที่ผ�
 
 หากเป็นสาระลิขสิทธิ์/OSS/ธรรมสิทธิ ใช้ `thai-copyright-software` · หากเป็นสิทธิเครื่องหมาย/สิทธิบัตร ใช้ `thai-trademark` / `thai-patent` แล้วนำผลกลับมาร่าง
 
-หากเป็น PDPA/DPA ใช้ `thai-pdpa` · หากเป็นภาษี/อัตราอากร/ราคาโอน ใช้ `thai-tax-international` · หากเป็นข้อเลือกกฎหมาย/อนุญาโตตุลาการ/บังคับต่างประเทศ ใช้ `thai-international-disputes`
+หากเป็น PDPA/DPA ใช้ `thai-pdpa` · หากเป็นภาษีหรืออากรแสตมป์ในประเทศ ใช้ `thai-tax-revenue-code` · ภาษีข้ามพรมแดน/ราคาโอน ใช้ `thai-tax-international` · หากเป็นข้อเลือกกฎหมาย/อนุญาโตตุลาการ/บังคับต่างประเทศ ใช้ `thai-international-disputes`
 
 หากเป็นมติ/อำนาจ/DBD filing ใช้ `thai-corporate-secretarial` · หากเป็นสิทธิแรงงาน ใช้ `thai-compliance-audit` · หากเป็น B2C ใช้ `thai-ecommerce-consumer` · หากเป็นระบบ e-sign/แพลตฟอร์ม ใช้ `thai-tech-platform-law` · หากเป็น AI ใช้ `thai-ai-governance`
 

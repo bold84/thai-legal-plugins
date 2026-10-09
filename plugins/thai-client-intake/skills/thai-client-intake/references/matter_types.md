@@ -56,7 +56,7 @@
 
 **ข้อมูลเฉพาะ:** ประเภทธุรกรรม คู่ธุรกรรม โครงสร้าง วัตถุประสงค์ทางธุรกิจ กรอบเวลา
 **เอกสาร:** ร่างสัญญา เอกสารบริษัท เอกสารธุรกรรม
-**ส่งต่อ:** ความเห็น → `thai-legal-opinion` · ตรวจสถานะ → `thai-legal-due-diligence` ·
+**ส่งต่อ:** ความเห็น → `thai-legal-opinion` · ตรวจสถานะ → `thai-legal-due-diligence` · ภาษีอากรในประเทศ/หมายเรียก/อุทธรณ์ภาษี → `thai-tax-revenue-code` ·
 compliance → `thai-compliance-audit` · งานบริษัท/IP → สกิลกลุ่ม 6 (รวม `thai-copyright-software`) ·
 สัญญา ภาษี การลงทุน ข้อพิพาท และการส่งออกข้ามพรมแดน → สกิลกลุ่ม 3 (`thai-contract-master`,
 `thai-tax-international`, `thai-boi-foreign-business`, `thai-international-disputes`,

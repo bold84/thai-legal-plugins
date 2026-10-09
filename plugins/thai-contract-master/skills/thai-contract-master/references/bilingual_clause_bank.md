@@ -92,7 +92,7 @@ Licence scope is the Annex's registrations/goods/territory/term. [Exclusive: no 
 ```
 
 ## 13. ภาษี/อากร
-ฐาน: รัษฎากร ม.104,107,111,118; วิธี/อัตราใช้ผล `thai-tax-international`
+ฐาน: รัษฎากร ม.104,107,111,118; วิธี/อัตราใช้ผล `thai-tax-revenue-code` (ในประเทศ) หรือ `thai-tax-international` (ข้ามพรมแดน)
 ```text
 ราคา[รวม/ไม่รวม]VAT หักภาษีตามกฎหมายพร้อมหลักฐาน [ฝ่าย]รับภาระอากรที่เกิดและชำระตามวิธี/กำหนดกฎหมาย ส่งหลักฐานให้อีกฝ่าย ไม่เปลี่ยนหน้าที่ตามกฎหมาย:ตราสารทำนอกไทยที่ต้องเสียอากรผู้ทรงแรกในไทยเสียภายใน30วันจากรับ
 Prices [include/exclude] VAT; statutory withholding requires evidence. [Party] bears applicable stamp duty, completes lawful payment procedures on time and supplies proof. Statutory duties remain: for dutiable instruments made abroad, the first holder in Thailand pays within 30 days of receipt.
